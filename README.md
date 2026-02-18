@@ -4,7 +4,7 @@ A simple Python script to generate **static, non-expiring QR codes** that link d
 
 ## Live Demo
 Don't want to run the code? Use the free web version here:
- **[Google Review QR Generator (Web Tool)](https://reviewreport.biz/tools/google-review-qr-code-generator)**
+ **https://reviewreport.app/tools/google-review-qr-code-generator**
 
 ## Why use this?
 Most "free" QR code generators create **dynamic links** (e.g., `qr.co/xyz`) that redirect to Google. The problem? They often expire after 14 days unless you pay a subscription.
